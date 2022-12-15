@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mohamedy</h1>
-<h3 align="center">A passionate mobile developer from Egypt</h3>
+<h3 align="center">I'm a software engineer focused on mobile applications' development (Android—IOS). Skilled in
+Dart, Flutter. I have work experience developing mobile applications using Flutter. I have developed these applications using
+different APIs and different services such as Firebase services and Google APIs and with using different state managements.
+Furthermore, I depend on clean architecture principles that defined by uncle Bob in writing my code, although I worked with Git
+as version control with different teams</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmohamedy&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmohamedy" /> </p>
 
